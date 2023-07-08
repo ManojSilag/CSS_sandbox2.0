@@ -1,0 +1,14 @@
+p:hover{
+color: rgb(46, 55, 2);
+}
+.kance{
+    color: green;
+    text-shadow: 2px 2px rgba(0, 229, 255, 0.6);
+}
+h1{
+    font-size: 28px !important;
+}
+body{
+    color: #00FF00;
+    font-family: 'Indie Flower', cursive;
+}
